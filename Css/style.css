@@ -1,0 +1,18 @@
+body {
+  background-color: #FFE6E6;
+}
+
+h1 {
+  color: pink;
+}
+
+h3 {
+  color: pink;
+}
+
+hr {
+  border-width: 5px;
+  border-style: dotted none none;
+  width: 5%;
+  border-color: pink;
+}
